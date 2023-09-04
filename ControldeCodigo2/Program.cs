@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Mamalaaaaaaa");
+﻿void MiPrimerMetodo()
+{
+    //HAz algo
+}
+
+void MiSegundoMetodo()
+{
+    //Haz algo
+}
+
+void MiTercerMetodo()
+{
+    //Haz algo
+}
